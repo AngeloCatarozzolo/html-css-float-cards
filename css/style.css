@@ -14,9 +14,17 @@
     display: block;
     clear: both;
 }
+.container{
+    max-width: 1400px;
+    margin: auto;
+}
 /*----------
     TIPOGRAPHY
 ----------*/
 body{
     font-family: 'Fredoka', sans-serif;
+}
+h1{
+    color: #e53170;
+    text-align: center;
 }
