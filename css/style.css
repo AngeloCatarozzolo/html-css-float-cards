@@ -32,4 +32,17 @@ h1{
 }
 p{
     padding-top: 5%;
+    padding-bottom: 5%;
+}
+/*----------
+    MAIN
+-----------*/
+.sez-team{
+    width: calc(100% / 3 - 50px);
+    height: 100px;
+    background-color: #0f0e17;
+    float: left;
+    padding: 10px;
+    margin: 0 10px;
+    color: white;
 }
