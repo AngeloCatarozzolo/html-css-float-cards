@@ -34,17 +34,16 @@ p{
     padding-top: 5%;
     padding-bottom: 5%;
 }
-h4{
+h4, h5{
     color: white;
-    padding: 10px;
-}
-h5{
-    padding: 10px;
+    padding: 10px 13px;
+    float: left;
 }
 a{
     color: #0b9fd1;
-    padding: 10px;
+    padding: 10px 13px;
 }
+
 /*----------
     MAIN
 -----------*/
@@ -55,10 +54,18 @@ a{
     float: left;
     margin: 0 10px;
     color: white;
+    box-shadow: 2px 2px 4px 4px gray;
 }
 img{
     width: 100px;
     height: 100px;
     float: left;
     
+}
+.card-bottom{
+    margin-top: 50px;
+}
+.info{
+    width: 170px;
+    float: left;
 }
